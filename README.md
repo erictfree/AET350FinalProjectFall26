@@ -1,6 +1,6 @@
 # AET350C Fall 2026: AudioPixel Live Coding Final Project
 
-Materials for the AET350C final project: a live visual performance built in AET Thunk Machine for the AudioPixel event on Thursday, November 19, 2026, at Payne Theater.
+Materials for the AET350C final project: a live visual performance for the AudioPixel event on Thursday, November 19, 2026, at Payne Theater.
 
 ## What's here
 
