@@ -16,6 +16,7 @@ Use the sample as a guide to the level of detail expected, not as a project to c
 
 The videos in [Example Screen Captures](Example%20Screen%20Captures/) are sample ideas to help inspire your final project. They illustrate possible visual directions and experiments; they are not intended to represent complete performances.
 
+- [Breakout](Example%20Screen%20Captures/Breakout.mp4)
 - [GravityBounce](Example%20Screen%20Captures/GravityBounce.mp4)
 - [Nothing But Code](Example%20Screen%20Captures/Nothing%20But%20Code.mp4)
 - [Ribbons](Example%20Screen%20Captures/Ribbons.mp4)
