@@ -22,4 +22,4 @@ The videos in [Example Screen Captures](Example%20Screen%20Captures/) are sample
 - [Velvet](Example%20Screen%20Captures/Velvet.mp4)
 - [dancing](Example%20Screen%20Captures/dancing.mp4)
 
-These sample videos are stored using Git LFS. To download them with a local clone, install Git LFS and run `git lfs pull`.
+To watch a sample video, click its link above, then choose **View raw** on GitHub to open or download the video.
