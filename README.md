@@ -4,7 +4,7 @@ Materials for the AET350C final project: a live visual performance for the Audio
 
 ## What's here
 
-- **`Final Prject Plan.pdf`**: the project brief. It covers the event, the checkpoints, what to submit, and how the project is graded.
+- **`Final Project Plan.pdf`**: the project brief. It covers the event, the checkpoints, what to submit, and how the project is graded.
 - **`Student Sample Checkpoint 1/`**: an example of a complete Checkpoint 1 (Assignment 6) submission, inspired by Robert Henke's *CBM 8032 AV*.
   - `sample_student_checkpoint_1.pdf`: the sample student's project document as submitted for Checkpoint 1, covering starting points, three directions, a first experiment, testing with music, and the chosen direction
   - `sample_student.json`: the Thunk Machine export
